@@ -10,4 +10,4 @@ even_numbers = [x for x in numbers if x % 2 == 0]
 upper_strings = [x.upper() for x in strings]
 print("Головний відсортований список:", sorted_list)
 print("Список парних чисел:", even_numbers)
-print("Список рядків КАПСОМ:", upper_strings)w
+print("Список рядків КАПСОМ:", upper_strings)
